@@ -1,16 +1,26 @@
-## Hi there 👋
+# Kazumasa Iinuma
 
-<!--
-**kiinuma/kiinuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Applied Mathematics & Data Science @ Boston University** (May 2027)
 
-Here are some ideas to get you started:
+Building ML systems and actuarial models at the intersection of quantitative risk and applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Monte Carlo Insurance Simulator**](https://kiinuma.github.io/monte-carlo-insurance-simulator/) ↗ | Simulates aggregate auto insurance losses across 10,000 one-year scenarios. Outputs solvency reserve, CLT vs. empirical gap, and per-driver premium. Live in-browser demo. | JS, HTML |
+| [**Phishing URL Classifier**](https://github.com/kiinuma/phishing-url-classifier) | Fine-tuned SmolLM2-1.7B with LoRA/QLoRA on 120 labeled URLs — 85% accuracy on held-out set, with failure analysis on homoglyph and redirect-obfuscation attacks. | Python, HuggingFace, PEFT |
+
+---
+
+## Stack
+
+`Python` `XGBoost` `HuggingFace Transformers` `LoRA / QLoRA` `JavaScript` `SQL`
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/kazumasa-iinuma) · Open to AI/ML and actuarial internships
