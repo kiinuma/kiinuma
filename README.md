@@ -11,7 +11,7 @@ Building ML systems and actuarial models at the intersection of quantitative ris
 | Project | What it does | Stack |
 |---|---|---|
 | [**Monte Carlo Insurance Simulator**](https://kiinuma.github.io/monte-carlo-insurance-simulator/) ↗ | Simulates aggregate auto insurance losses across 10,000 one-year scenarios. Outputs solvency reserve, CLT vs. empirical gap, and per-driver premium. Live in-browser demo. | JS, HTML |
-| [**Phishing URL Classifier**](https://github.com/kiinuma/phishing-url-classifier) | Fine-tuned SmolLM2-1.7B with LoRA/QLoRA on 120 labeled URLs — 85% accuracy on held-out set, with failure analysis on homoglyph and redirect-obfuscation attacks. | Python, HuggingFace, PEFT |
+| [**Phishing URL Classifier**](https://github.com/kiinuma/phishing-url-classifier) | Fine-tuned SmolLM2-1.7B with LoRA/QLoRA on 415 labeled URLs — 94% accuracy on 50 held-out examples, outperforming a TF-IDF + Logistic Regression baseline by 8 points; includes loss curve, confusion matrix, and ROC curve comparison. |
 
 ---
 
